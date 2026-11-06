@@ -44,7 +44,7 @@ After every run, Jenkins prints a success or failure message and cleans its work
 3. Open the website: `http://<server-ip>:8080/taxi-booking-1.0.1/`
 
 ## Screenshots
-![Website running on Tomcat](screenshots/website.png)
+![Website running on Tomcat](cab-booking-screenshot-redacted.png)
 
 ## Author
 Archana Bisht | [LinkedIn](https://www.linkedin.com/in/archanabisht15) | [GitHub](https://github.com/archanabisht15)
